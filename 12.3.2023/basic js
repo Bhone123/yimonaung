@@ -1,0 +1,31 @@
+// let x = 5;
+// x += 2; //X=X+2' X-
+// x -= 2; //x=x-2
+// x *= 3; //x=x*3;
+// console.log(x);
+
+// let y = 1 / 2; // "//" means result
+// console.log(y);
+// let z = 1 % 2; // "%"means remainder
+// console.log(z);
+// let k = z;
+// console.log(k);
+// // console.log(Math.pow(2, 4)); //2**4
+// console.log(Math.pow(2, 4)); //2**4
+// let constant = ((2 ** (4 - 5) * 7) / (2 + 4)) * 2;
+// console.log(constant);
+// 4;
+
+// let a = 16;
+// --a;
+// a += 2;
+// let b = 12;
+// ++b;
+// b += 4;
+// console.log(b);
+// console.log(a);
+let num1 = "12";
+let num2 = "7";
+let result = num1 / num2;
+console.log(typeof result);
+console.log(result.toFixed(3));
